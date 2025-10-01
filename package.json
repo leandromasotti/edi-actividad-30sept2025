@@ -1,0 +1,23 @@
+{
+  "name": "edi-actividad-30sept2025",
+  "version": "1.0.0",
+  "description": "El objetivo de este ejercicio es que practiques:\r - Programación orientada a objetos (nivel intermedio).\r - Uso de GitHub: **forks, ramas, commits y pull requests**.\r - Buenas prácticas de colaboración en proyectos.",
+  "main": "biblioteca.js",
+  "scripts": {
+    "test": "jest --watchAll=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matysanro/edi-actividad-30sept2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matysanro/edi-actividad-30sept2025/issues"
+  },
+  "homepage": "https://github.com/matysanro/edi-actividad-30sept2025#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
